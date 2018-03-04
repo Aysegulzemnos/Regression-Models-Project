@@ -6,6 +6,7 @@ You work for Motor Trend, a magazine about the automobile industry. Looking at a
 
    
    1-“Is an automatic or manual transmission better for MPG”
+  
    2-"Quantify the MPG difference between automatic and manual transmissions" 
 
 
